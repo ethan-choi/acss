@@ -1,0 +1,65 @@
+.gallery{
+  font-family: 'Poppins', sans-serif;
+
+}
+.galleryPage{
+  background-color: #f2f2f2;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Gallery */
+.galleryHeader{
+    background-color: #dd3438;
+    height: 40vh;
+    font-size: 7vh;
+  }
+  
+.galleryHeader h1{
+    margin: 20vh 0vh 5vh 0vh;
+    font-size: 6vh;
+    text-align: center;
+    color: #ffa800; 
+    font-weight: bold;
+  
+  }
+
+.galleryContainer img{
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
+  }
+
+.galleryContainer{
+  margin-top: 10vh;
+}
+.galleryCard
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5vh;
+  border: none;
+}
+
+.galleryCard h2{
+  color: black;
+  text-align: center;  font-size: 3vh;
+}
+
+
+.galleryImage{
+  height: 50vh;
+}
+
+.galleryRow{
+  margin-bottom: 2vh;
+}
+
+.galleryCol{
+  margin-bottom: 2vh;
+}
+
+.galleryRow p{
+  text-align: center;
+  font-size: 6vh;
+}

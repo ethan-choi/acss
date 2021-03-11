@@ -1,0 +1,83 @@
+.team{
+  background-color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Header */
+.teamHeader{
+  background-color: #dd3438;
+  height: 27vh;
+  font-size: 7vh;
+}
+
+.teamHeader h1{
+  margin: 20vh 0vh 0vh 0vh;
+  font-size: 6vh;
+  text-align: center;
+  color: #ffa800; 
+  font-weight: bold;
+}
+
+
+.teamGroupContainer{
+  margin-bottom: 10vh;
+  background-color: white;
+}
+
+.teamGroupImage{
+  background-color: white;
+  height: 50vh;
+  width: auto;
+  -webkit-box-shadow: 10px 10px 12px 0px rgba(0,0,0,0.25);
+-moz-box-shadow: 10px 10px 12px 0px rgba(0,0,0,0.25);
+box-shadow: 10px 10px 12px 0px rgba(0,0,0,0.25);
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.whiteBenefits{
+  background-color: white;
+}
+
+/* Team  */
+.team-container{
+  margin: 0vh 0vh 0vh 0vh;
+  padding-bottom: 10vh;
+  background-color:#f2f2f2;
+}
+
+.teamCard{
+  border: none;
+  text-align: center;
+  margin: auto auto 3vh auto;
+  background-color: white;
+}
+
+.teamCard img{
+  height: auto;
+  width: auto;
+}
+
+.teamCard:hover{
+  background-color: #dd3438;
+  color: white;
+  transition: 0.4s;
+}
+
+.teamCard h1{
+  font-size: 3vh;
+}
+
+.teamCard h2{
+  font-size: 3vh;
+  font-weight: none;
+}
+
+
+.teamCard h3{
+  font-size: 2vh;
+  font-weight: none;
+}
+
+.teamCol{}
