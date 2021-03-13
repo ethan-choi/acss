@@ -16,7 +16,7 @@ ReactDOM.render(
   <BrowserRouter>
     <Switch>
       <Route exact path="/" component={Home} />
-      <Route exact path="/acss" component={Home} />
+      <Route exact path="/home" component={Home} />
       <Route exact path="/team" component={Team} />
       <Route exact path="/join" component={Join} />
       <Route exact path="/about" component={About} />
